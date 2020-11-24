@@ -1,0 +1,8 @@
+a. git commit, git push, git pull
+
+b. git commit adds the code snapshot to the project
+	git push adds your local changes to the remote project repo
+	git pull downloads files from the remote project repo that aren't already on your machine
+
+c. git clone downloads the files from a project repo onto your machine and initializes
+	a new branch off that initial repo so you can edit the project in your own branches.
